@@ -1,0 +1,11 @@
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\bin\Debug\ArtRandomizer.exe.config
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\bin\Debug\ArtRandomizer.exe
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\bin\Debug\ArtRandomizer.pdb
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\obj\Debug\ArtRandomizer.csproj.AssemblyReference.cache
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\obj\Debug\ArtRandomizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\obj\Debug\ArtRandomizer.Form1.resources
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\obj\Debug\ArtRandomizer.Properties.Resources.resources
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\obj\Debug\ArtRandomizer.csproj.GenerateResource.cache
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\obj\Debug\ArtRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\obj\Debug\ArtRandomizer.exe
+C:\Users\Bronj\source\repos\ArtRandomizer\ArtRandomizer\obj\Debug\ArtRandomizer.pdb
